@@ -5,6 +5,7 @@ fields:
 - type: text
   name: title
   label: Title
+  default: Home
 - type: boolean
   name: isHome
   label: Is home page
