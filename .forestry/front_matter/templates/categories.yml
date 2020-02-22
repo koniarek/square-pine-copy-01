@@ -15,8 +15,9 @@ fields:
     source:
       type: custom
     options:
-    - Store
-    - About
+    - Sklep
+    - O nas
+    - Blog
     - Home
 - type: text
   name: layout
