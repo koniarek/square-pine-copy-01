@@ -5,67 +5,49 @@ admin_path: admin
 webhook_url: https://api.stackbit.com/project/5e43e6c3f866cb00132276a6/webhook/forestry
 sections:
 - type: document
-  path: _config.yml
-  label: Global site config
-  templates:
-  - config
-- type: document
   path: index.md
   label: Home
   templates:
   - index
-- type: directory
-  path: ''
-  label: Page
-  create: all
-  match: "**/*.md"
-  exclude: "{README.md,LICENSE.md,index.md,store.md,faq.md,about.md}"
-  templates:
-  - page
-- type: document
-  path: store.md
-  label: Store
-  templates:
-  - store
-- type: document
-  path: faq.md
-  label: FAQ
-  templates:
-  - faq
 - type: document
   path: about.md
-  label: About
+  label: O Nas
   templates:
   - about
+- type: document
+  path: store.md
+  label: Sklep
+  templates:
+  - store
+- type: directory
+  path: products
+  label: Produkty
+  create: all
+  match: "**/*"
+  templates:
+  - products
 - type: directory
   path: category
-  label: Categories
+  label: Kategorie
   create: all
   match: "**/*"
   templates:
   - categories
 - type: document
+  path: faq.md
+  label: Regulamin
+  templates:
+  - faq
+- type: document
   path: _data/promotion.json
-  label: Promotion
+  label: Promocje
   templates:
   - promotion
 - type: document
   path: _data/testimonials.json
-  label: Testimonials
+  label: Opinie
   templates:
   - testimonials
-- type: directory
-  path: products
-  label: Product
-  create: all
-  match: "**/*"
-  templates:
-  - products
-- type: document
-  path: _data/menus.yml
-  label: Site Menus
-  templates:
-  - site_menus
 upload_dir: images
 public_path: "/images"
 front_matter_path: ''
