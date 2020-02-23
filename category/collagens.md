@@ -1,6 +1,6 @@
 ---
-slug: bigplants
-title: Big plants
+slug: collagens
+title: Kolageny
 section: Store
 menus:
   categories:

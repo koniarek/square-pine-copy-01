@@ -1,9 +1,9 @@
 ---
-slug: cactuses
-title: Cactuses
+slug: suplements
+title: Suplementy diety
 section: Store
 menus:
   categories:
-    weight: 6
+    weight: 5
 layout: category
 ---
