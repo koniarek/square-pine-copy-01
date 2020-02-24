@@ -10,8 +10,8 @@ logos:
     optimized: "/images/logo-Colway-1.jpg"
     fallback: images/logo-white.svg
   dark:
-    optimized: images/logo.svg
-    fallback: images/logo.svg
+    optimized: images/leaf-light-grey.svg
+    fallback: images/leaf-light-grey.svg
 palette: default
 palettes:
   default:

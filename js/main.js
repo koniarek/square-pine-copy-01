@@ -604,7 +604,7 @@ hamburgerMenu.addEventListener('click', _ => {
     hamburgerMenuContent.classList.remove('hamburger__content--closed')
     nav.classList.remove('nav--light')
     nav.classList.add('nav--dark')
-    logo.src = '/images/logo.svg'
+    logo.src = '/images/leaf-light-grey.svg'
     toggleScroll()
   } else {
     hamburgerMenuContent.classList.add('hamburger__content--closed')

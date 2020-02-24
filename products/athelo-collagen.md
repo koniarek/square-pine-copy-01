@@ -24,15 +24,15 @@ images:
       fallback: /images/plant1.jpg
     original:
       optimized: /images/plant1-lg.webp
-      fallback: /images/plant1-lg.jpg
+      fallback: /images/atelokolagen.png
   featured:
     thumbnail:
       optimized: /images/plant1-featured.webp
-      fallback: /images/plant1-featured.jpg
+      fallback: /images/atelokolagen.png
     original:
       optimized: /images/plant1-featured-lg.webp
-      fallback: /images/plant1-featured-lg.jpg
-category: bigplants
+      fallback: /images/atelokolagen.png
+category: collagens
 featured: true
 section: Store
 layout: product
