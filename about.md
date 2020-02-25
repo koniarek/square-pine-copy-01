@@ -1,10 +1,14 @@
 ---
 title: O Nas
 headline: Centrum Kolagenu
-introduction: |-
-  Nasza firma jest oficjalnym, certyfikowanym dystrybutorem produktów marki Colway.
-
-  Posiadamy sklep stacjonarny we Wrocławiu przy ulicy Powstańców Śląskich 7a - w budynku Globis, oraz prowadzimy sprzedaż internetową, wszystkich produktów marki Colway, które obecnie znajdują się w ofercie producenta.
+introduction: "![](/images/banner.webp)   \n\nNasza firma jest oficjalnym, certyfikowanym
+  dystrybutorem produktów marki Colway. Swoją działalność prowadzimy od 2019 roku.\n\n
+  \ Posiadamy sklep stacjonarny we Wrocławiu, gdzie można nie tylko zobaczyć wszystkie
+  produkty, ale również umówić się na zabieg kosmetyczny z wykorzystaniem kolagenu
+  najwyższej jakości.\n\n  Nasz sklep mieści się przy ulicy Powstańców Śląskich 7a
+  - w budynku biurowym Globis. Prowadzimy sprzedaż internetową, wszystkich produktów
+  marki Colway, które obecnie znajdują się w ofercie producenta.\n\n  Zapewniamy naszym
+  klientom globalną dostawę produktów, poprzez sprzedaż wysyłkową."
 bulletpoints:
 - title: COLWAY to marka polska
   description: Marka uznana w kraju i na świecie, z diamentowym szlifem doświadczeń,
