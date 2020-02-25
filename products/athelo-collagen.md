@@ -20,18 +20,18 @@ price: '287,00'
 images:
   default:
     thumbnail:
-      optimized: /images/plant1.webp
-      fallback: /images/plant1.jpg
+      optimized: /images/atelokolagen.webp
+      fallback: /images/atelokolagen.png
     original:
-      optimized: /images/plant1-lg.webp
+      optimized: /images/atelokolagen.webp
       fallback: /images/atelokolagen.png
   featured:
     thumbnail:
-      optimized: /images/plant1-featured.webp
-      fallback: /images/atelokolagen.png
+      optimized: /images/atelokolagen_box.webp
+      fallback: /images/atelokolagen_box.png
     original:
-      optimized: /images/plant1-featured-lg.webp
-      fallback: /images/atelokolagen.png
+      optimized: /images/atelokolagen_box.webp
+      fallback: /images/atelokolagen_box.png
 category: collagens
 featured: true
 section: Store

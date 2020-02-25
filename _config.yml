@@ -27,13 +27,13 @@ palettes:
       dark_grey: "#273132"
       light_grey: "#6B797A"
       bg_image_primary_optimized: "/images/header.webp"
-      bg_image_primary_fallback: "/images/header.jpg"
+      bg_image_primary_fallback: "/images/promo.jpg"
       bg_image_secondary_optimized: "/images/leaf-light-grey.svg"
       bg_image_secondary_fallback: "/images/leaf-light-grey.svg"
       bg_image_product_optimized: "/images/leaf.svg"
       bg_image_product_fallback: "/images/leaf.svg"
       bg_image_cart_optimized: "/images/cart-bg.webp"
-      bg_image_cart_fallback: "/images/header.jpg"
+      bg_image_cart_fallback: "/images/promo.jpg"
 sass:
   style: nested
   precision: 10
