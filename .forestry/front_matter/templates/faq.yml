@@ -18,14 +18,14 @@ fields:
 - type: field_group_list
   name: questions
   label: Questions
-  description: List of questions to show on the FAQ page
+  description: Najczęściej zadawne pytania
   fields:
   - type: text
     name: question
-    label: Question
+    label: Pytanie
   - type: textarea
     name: answer
-    label: Answer
+    label: Odpowiedź
     config:
       wysiwyg: true
       schema:

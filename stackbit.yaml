@@ -332,7 +332,7 @@ models:
         description: Which menus should this page show up in
   promotion:
     type: data
-    file: promotion.json
+    file: terms&conditions.json
     label: Promotion
     fields:
       - type: string

@@ -38,6 +38,3 @@ section: Store
 layout: product
 ---
 
-# Nulla suscipit
-
-Atelo-kolagen Colway.

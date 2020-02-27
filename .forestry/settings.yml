@@ -39,15 +39,10 @@ sections:
   templates:
   - faq
 - type: document
-  path: _data/promotion.json
-  label: Promocje
+  path: _data/terms.json
+  label: Regulamin Sklepu & Polityka Cookies
   templates:
-  - promotion
-- type: document
-  path: _data/testimonials.json
-  label: Opinie
-  templates:
-  - testimonials
+  - terms&conditions
 upload_dir: images
 public_path: "/images"
 front_matter_path: ''
