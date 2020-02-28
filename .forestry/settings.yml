@@ -39,7 +39,7 @@ sections:
   templates:
   - faq
 - type: document
-  path: _data/terms.json
+  path: _data/terms&conditions.json
   label: Regulamin Sklepu & Polityka Cookies
   templates:
   - terms&conditions

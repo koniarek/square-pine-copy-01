@@ -7,11 +7,8 @@ snipcart_css: https://cdn.snipcart.com/themes/v3.0.4/default/snipcart.css
 snipcart_api_key: NjgzYTY0ZTctZmM0My00NjQ3LTg0MjYtMGNhYzUzMTM1ZDA0NjM3MTcxMDUzNTMyMjEwMDk2
 logos:
   light:
-    optimized: "/images/logo-Colway-1.jpg"
+    optimized: "/images/logo.webp"
     fallback: images/logo-white.svg
-  dark:
-    optimized: images/leaf-light-grey.svg
-    fallback: images/leaf-light-grey.svg
 palette: default
 palettes:
   default:
@@ -27,13 +24,9 @@ palettes:
       dark_grey: "#273132"
       light_grey: "#6B797A"
       bg_image_primary_optimized: "/images/header.webp"
-      bg_image_primary_fallback: "/images/promo.jpg"
-      bg_image_secondary_optimized: "/images/leaf-light-grey.svg"
-      bg_image_secondary_fallback: "/images/leaf-light-grey.svg"
-      bg_image_product_optimized: "/images/leaf.svg"
-      bg_image_product_fallback: "/images/leaf.svg"
+      bg_image_primary_fallback: "/images/promotion.jpg"
       bg_image_cart_optimized: "/images/cart-bg.webp"
-      bg_image_cart_fallback: "/images/promo.jpg"
+      bg_image_cart_fallback: "/images/promotion.jpg"
 sass:
   style: nested
   precision: 10

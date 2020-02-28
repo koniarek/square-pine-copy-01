@@ -1,7 +1,8 @@
 ---
 id: '2'
-title: Integer porta
-description: Suspendisse efficitur eget erat sit amet efficitur.
+title: Atelo-kolagen Perłowy
+description:  >-
+Pojemność
 price: '99.00'
 images:
   default:
