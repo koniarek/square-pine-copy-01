@@ -1,6 +1,6 @@
 ---
 slug: suplements
-title: Suplementy diety
+title: Suplementy Diety
 section: Store
 menus:
   categories:
